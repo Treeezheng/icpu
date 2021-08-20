@@ -21,161 +21,161 @@
           <entry>
             <string>Q1</string>
             <pin>
-              <pos x="140" y="60"/>
+              <pos x="200" y="80"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>Q2</string>
             <pin>
-              <pos x="140" y="80"/>
+              <pos x="200" y="100"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>Q3</string>
             <pin>
-              <pos x="140" y="100"/>
+              <pos x="200" y="120"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>CLK</string>
             <pin>
-              <pos x="0" y="220"/>
+              <pos x="200" y="0"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>Q4</string>
             <pin>
-              <pos x="140" y="120"/>
+              <pos x="200" y="140"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>Q5</string>
             <pin>
-              <pos x="140" y="140"/>
+              <pos x="200" y="160"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>ERR</string>
             <pin>
-              <pos x="140" y="220"/>
+              <pos x="0" y="0"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>Q6</string>
             <pin>
-              <pos x="140" y="160"/>
+              <pos x="200" y="180"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>Q7</string>
             <pin>
-              <pos x="140" y="180"/>
+              <pos x="200" y="200"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>D0</string>
             <pin>
-              <pos x="0" y="40"/>
+              <pos x="0" y="60"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>D1</string>
             <pin>
-              <pos x="0" y="60"/>
+              <pos x="0" y="80"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>D2</string>
             <pin>
-              <pos x="0" y="80"/>
+              <pos x="0" y="100"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>D3</string>
             <pin>
-              <pos x="0" y="100"/>
+              <pos x="0" y="120"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>D4</string>
             <pin>
-              <pos x="0" y="120"/>
+              <pos x="0" y="140"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>PCCE</string>
             <pin>
-              <pos x="0" y="0"/>
+              <pos x="200" y="220"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>D5</string>
             <pin>
-              <pos x="0" y="140"/>
+              <pos x="0" y="160"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>D6</string>
             <pin>
-              <pos x="0" y="160"/>
+              <pos x="0" y="180"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>RST&apos;</string>
             <pin>
-              <pos x="0" y="200"/>
+              <pos x="0" y="40"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
-            <string>D8</string>
+            <string>D7</string>
             <pin>
-              <pos x="0" y="180"/>
+              <pos x="0" y="200"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>JMP&apos;</string>
             <pin>
-              <pos x="140" y="200"/>
+              <pos x="200" y="20"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>PCOE&apos;</string>
             <pin>
-              <pos x="140" y="0"/>
+              <pos x="0" y="220"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
           <entry>
             <string>Q0</string>
             <pin>
-              <pos x="140" y="40"/>
+              <pos x="200" y="60"/>
               <showLabel>false</showLabel>
             </pin>
           </entry>
         </pins>
         <drawables>
           <poly>
-            <poly path="M 0,-10 L 140,-10 L 140,240 L 0,240 Z" evenOdd="false"/>
+            <poly path="M 0,-10 L 200,-10 L 200,250 L 0,250 Z" evenOdd="false"/>
             <thickness>4</thickness>
             <filled>true</filled>
             <color>
@@ -186,7 +186,7 @@
             </color>
           </poly>
           <poly>
-            <poly path="M 0,-10 L 140,-10 L 140,240 L 0,240 Z" evenOdd="false"/>
+            <poly path="M 0,-10 L 200,-10 L 200,250 L 0,250 Z" evenOdd="false"/>
             <thickness>4</thickness>
             <filled>false</filled>
             <color>
@@ -197,8 +197,8 @@
             </color>
           </poly>
           <text>
-            <p1 x="4" y="41"/>
-            <p2 x="5" y="41"/>
+            <p1 x="4" y="64"/>
+            <p2 x="5" y="64"/>
             <text>D0</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -210,8 +210,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="61"/>
-            <p2 x="5" y="61"/>
+            <p1 x="4" y="84"/>
+            <p2 x="5" y="84"/>
             <text>D1</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -223,8 +223,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="81"/>
-            <p2 x="5" y="81"/>
+            <p1 x="4" y="104"/>
+            <p2 x="5" y="104"/>
             <text>D2</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -236,8 +236,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="101"/>
-            <p2 x="5" y="101"/>
+            <p1 x="4" y="124"/>
+            <p2 x="5" y="124"/>
             <text>D3</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -249,8 +249,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="121"/>
-            <p2 x="5" y="121"/>
+            <p1 x="4" y="144"/>
+            <p2 x="5" y="144"/>
             <text>D4</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -262,8 +262,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="141"/>
-            <p2 x="5" y="141"/>
+            <p1 x="4" y="164"/>
+            <p2 x="5" y="164"/>
             <text>D5</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -275,8 +275,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="161"/>
-            <p2 x="5" y="161"/>
+            <p1 x="4" y="184"/>
+            <p2 x="5" y="184"/>
             <text>D6</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -288,9 +288,9 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="181"/>
-            <p2 x="5" y="181"/>
-            <text>D8</text>
+            <p1 x="4" y="204"/>
+            <p2 x="5" y="204"/>
+            <text>D7</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
             <color>
@@ -301,8 +301,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="211"/>
-            <p2 x="5" y="211"/>
+            <p1 x="4" y="38"/>
+            <p2 x="5" y="38"/>
             <text>RST&apos;</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -314,8 +314,8 @@
             </color>
           </text>
           <text>
-            <p1 x="99" y="211"/>
-            <p2 x="100" y="211"/>
+            <p1 x="153" y="36"/>
+            <p2 x="154" y="36"/>
             <text>JMP&apos;</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -327,8 +327,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="11"/>
-            <p2 x="5" y="11"/>
+            <p1 x="146" y="228"/>
+            <p2 x="147" y="228"/>
             <text>PCCE</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -340,8 +340,8 @@
             </color>
           </text>
           <text>
-            <p1 x="4" y="231"/>
-            <p2 x="5" y="231"/>
+            <p1 x="157" y="8"/>
+            <p2 x="158" y="8"/>
             <text>CLK</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -353,8 +353,8 @@
             </color>
           </text>
           <text>
-            <p1 x="84" y="11"/>
-            <p2 x="85" y="11"/>
+            <p1 x="4" y="230"/>
+            <p2 x="5" y="230"/>
             <text>PCOE&apos;</text>
             <orientation>LEFTBOTTOM</orientation>
             <size>18</size>
@@ -366,8 +366,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="61"/>
-            <p2 x="137" y="61"/>
+            <p1 x="196" y="76"/>
+            <p2 x="197" y="76"/>
             <text>Q1</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -379,8 +379,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="81"/>
-            <p2 x="137" y="81"/>
+            <p1 x="196" y="96"/>
+            <p2 x="197" y="96"/>
             <text>Q2</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -392,8 +392,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="101"/>
-            <p2 x="137" y="101"/>
+            <p1 x="196" y="116"/>
+            <p2 x="197" y="116"/>
             <text>Q3</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -405,8 +405,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="41"/>
-            <p2 x="137" y="41"/>
+            <p1 x="196" y="56"/>
+            <p2 x="197" y="56"/>
             <text>Q0</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -418,8 +418,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="141"/>
-            <p2 x="137" y="141"/>
+            <p1 x="196" y="156"/>
+            <p2 x="197" y="156"/>
             <text>Q5</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -431,8 +431,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="161"/>
-            <p2 x="137" y="161"/>
+            <p1 x="196" y="176"/>
+            <p2 x="197" y="176"/>
             <text>Q6</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -444,8 +444,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="181"/>
-            <p2 x="137" y="181"/>
+            <p1 x="196" y="196"/>
+            <p2 x="197" y="196"/>
             <text>Q7</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -457,8 +457,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="121"/>
-            <p2 x="137" y="121"/>
+            <p1 x="196" y="140"/>
+            <p2 x="197" y="140"/>
             <text>Q4</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -470,8 +470,8 @@
             </color>
           </text>
           <text>
-            <p1 x="136" y="231"/>
-            <p2 x="137" y="231"/>
+            <p1 x="43" y="9"/>
+            <p2 x="44" y="9"/>
             <text>ERR</text>
             <orientation>RIGHTBOTTOM</orientation>
             <size>18</size>
@@ -484,8 +484,8 @@
           </text>
         </drawables>
         <label>
-          <p1 x="70" y="-20"/>
-          <p2 x="71" y="-20"/>
+          <p1 x="100" y="-20"/>
+          <p2 x="101" y="-20"/>
           <text></text>
           <orientation>CENTERBOTTOM</orientation>
           <size>24</size>
@@ -621,7 +621,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>D8</string>
+          <string>D7</string>
         </entry>
         <entry>
           <string>pinNumber</string>
